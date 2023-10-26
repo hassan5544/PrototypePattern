@@ -1,0 +1,14 @@
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\bin\Debug\net7.0\PrototypePattern.exe
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\bin\Debug\net7.0\PrototypePattern.deps.json
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\bin\Debug\net7.0\PrototypePattern.runtimeconfig.json
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\bin\Debug\net7.0\PrototypePattern.dll
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\bin\Debug\net7.0\PrototypePattern.pdb
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\obj\Debug\net7.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\obj\Debug\net7.0\PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\obj\Debug\net7.0\PrototypePattern.AssemblyInfo.cs
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\obj\Debug\net7.0\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\obj\Debug\net7.0\PrototypePattern.dll
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\obj\Debug\net7.0\refint\PrototypePattern.dll
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\obj\Debug\net7.0\PrototypePattern.pdb
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\obj\Debug\net7.0\PrototypePattern.genruntimeconfig.cache
+C:\Users\AL-ITYAN\RiderProjects\PrototypePattern\PrototypePattern\obj\Debug\net7.0\ref\PrototypePattern.dll
