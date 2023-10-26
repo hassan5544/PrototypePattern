@@ -1,6 +1,6 @@
 namespace PrototypePattern;
 
-public class Invoice : NewInvoice
+public class Invoice
 {
     public Guid Id { get; set; }
     public string Prefix { get; set; }
@@ -15,7 +15,7 @@ public class Invoice : NewInvoice
         InvoiceDate = invoiceDate;
         TotalAmount = totalAmount;
     }
-    public override NewInvoice Clone()
+    public Invoice Clone()
     {
         return new Invoice(Id, Prefix, InvoiceDate, TotalAmount);
     }
